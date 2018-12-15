@@ -1,3 +1,14 @@
+# Movie Search
+
+<br/>
+
+Movie search app coded at 4 hours.
+
+<br/>
+
+![alt text](https://github.com/tavioalves/movie-search/blob/master/src/images/1.png)
+![alt text](https://github.com/tavioalves/movie-search/blob/master/src/images/2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
