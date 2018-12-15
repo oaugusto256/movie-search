@@ -2,7 +2,7 @@
 
 <br/>
 
-Movie search app coded at 4 hours.
+Movie search app coded at 4 hours, boilerplated with create react app. Live: http://react-movie-search-4-hours.surge.sh/
 
 <br/>
 
